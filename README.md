@@ -1,1 +1,1 @@
-Link de la página: https://gabriel21amaya.github.io/academia-de-fultbol-gabriel-amaya
+Link de la página: https://gabriel21amaya.github.io/academia-de-futbol-gabriel-amaya
