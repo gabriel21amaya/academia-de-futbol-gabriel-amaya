@@ -88,7 +88,7 @@ body{
     margin: -100px 0 0 -100px;
     width: 200px;
     height: 200px;
-    background-image: url("../imagenes/logo.png");
+    background-image: url("../imagenes/logo.webp");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -176,7 +176,7 @@ p {
 	padding-bottom: 60px;
 }
 .bg-section{
-	background:url('../imagenes/fondos/fondo-secciones.jpg') no-repeat center center; 
+	background:url('../imagenes/fondos/fondo-secciones.webp') no-repeat center center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -417,7 +417,7 @@ strong, b{
 }
 
 .subbanner{
-	background:url('../imagenes/fondos/fondo-titulos.jpg') no-repeat center center;
+	background:url('../imagenes/fondos/fondo-titulos.webp') no-repeat center center;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -447,7 +447,7 @@ strong, b{
 
 
 .stat-facts{
-	background:url('../imagenes/fondos/fondo-cancha.jpg') no-repeat center center; 
+	background:url('../imagenes/fondos/fondo-cancha.webp') no-repeat center center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -600,7 +600,7 @@ strong, b{
 	padding: 20px 20px;
 }
 .tab-content-bg{
-	background: url('../imagenes/fondos/fondo-eventos.jpg') top center;
+	background: url('../imagenes/fondos/fondo-eventos.webp') top center;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -986,7 +986,7 @@ td.tw10{
     padding: 0px 0px;
 }
 .tab-team-bg{
-	background: url('../imagenes/fondos/fondo-horarios.jpg') top center;
+	background: url('../imagenes/fondos/fondo-horarios.webp') top center;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -1552,7 +1552,7 @@ td.tw10{
 	background-color: #29ABE2;
 }
 .bg-client{
-	background:url('../imagenes/fondos/fondo-patrocinadores.jpg') no-repeat center center; 
+	background:url('../imagenes/fondos/fondo-patrocinadores.webp') no-repeat center center; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 

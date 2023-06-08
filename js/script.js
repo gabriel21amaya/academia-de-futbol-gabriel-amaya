@@ -221,9 +221,9 @@ $(document).ready(function(){
 		longitude = myLng,
 		map_zoom = 14;
 
-	//google map custom marker icon - .png fallback for IE11
+	//google map custom marker icon - .webp fallback for IE11
 	var is_internetExplorer11= navigator.userAgent.toLowerCase().indexOf('trident') > -1;
-	var marker_url = ( is_internetExplorer11 ) ? 'imagenes/cd-icon-location.png' : 'imagenes/cd-icon-location.svg';
+	var marker_url = ( is_internetExplorer11 ) ? 'imagenes/cd-icon-location.webp' : 'imagenes/cd-icon-location.svg';
 
 	//define the basic color of your map, plus a value for saturation and brightness
 	var main_color = '#000000',
